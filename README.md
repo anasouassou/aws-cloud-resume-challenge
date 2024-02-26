@@ -20,5 +20,5 @@ This is my first and not last project in the realm of cloud.
  
 ## Author
 - LinkedIn: [anasouassou](https://www.linkedin.com/in/anas-ouassou-6aa766218/)
-- Gmail: [anasouassou9@gmail.com]
+- Gmail: anasouassou9@gmail.com
   
