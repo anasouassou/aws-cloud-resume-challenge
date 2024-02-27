@@ -1,6 +1,6 @@
 # AWS Cloud Resume Challenge
 
-Hey there, I'm thrilled to share my experience with the Cloud Resume Challenge! It provided an excellent opportunity to put my acquired skills into practice hands-on.
+Hey there, this is my attempt for the cloud resume challenge in AWS.
 
 Throughout this challenge, I utilized:
 
@@ -9,7 +9,6 @@ Throughout this challenge, I utilized:
 - GitHub Actions for continuous integration and continuous deployment (CI/CD), automating the build pipelines.
 - Terraform for Infrastructure as Code (IAC), enabling efficient management and provisioning of cloud resources.
 
-It was an enriching experience that strengthened my understanding of cloud technologies and their practical applications. Looking forward to leveraging these skills in future projects and opportunities!
 
 ## Architecture
 
